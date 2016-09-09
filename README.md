@@ -1,7 +1,7 @@
 # ng2-admin-test
 Test with Angular2
 
-Quick start
+# Quick start
 # clone my repo
 git clone https://github.com/vitornobrega/ng2-admin-test.git
 
