@@ -13,3 +13,5 @@ npm install
 
 # start the server
 npm start
+
+... and check the webpp :)
